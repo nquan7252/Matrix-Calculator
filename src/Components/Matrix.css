@@ -1,0 +1,9 @@
+.matrix input{
+    font-size: 1.5em;
+    text-align: center;
+    margin: 0 10px;
+    width: 50px;
+}
+.matrix div{
+    margin:10px 0;
+}
