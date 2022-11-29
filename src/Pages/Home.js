@@ -31,9 +31,7 @@ function Home() {
             <h3>My Socials</h3>
             <p>Please feel free to reach out to me through my socials:</p>
             <div className='social'>
-                <a target='_blank' href='https://miwa.sbs/'><img src={require('../Assets/www.png')}></img></a>
-                <a target='_blank' href='https://www.instagram.com/_mquannn_/'><img src={require('../Assets/instagram.png')}></img></a>
-                <a target='_blank' href='https://www.linkedin.com/in/quan-nguyen-299a3a224/'><img src={require('../Assets/linkedin.png')}></img></a>
+                <a target='_blank' href='https://nquan7252.github.io/Miwawebsite/'><img src={require('../Assets/www.png')}></img></a>
 
             </div>
         </div>
